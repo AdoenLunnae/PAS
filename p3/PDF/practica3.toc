@@ -1,0 +1,38 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ejercicio 1}{3}% 
+\contentsline {subsection}{\numberline {1.1}Explicaci\IeC {\'o}n}{3}% 
+\contentsline {paragraph}{}{3}% 
+\contentsline {subsection}{\numberline {1.2}Ejemplo de ejecuci\IeC {\'o}n}{3}% 
+\contentsline {paragraph}{}{3}% 
+\contentsline {paragraph}{}{3}% 
+\contentsline {section}{\numberline {2}Ejercicio 2}{4}% 
+\contentsline {subsection}{\numberline {2.1}Explicaci\IeC {\'o}n}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {subsection}{\numberline {2.2}Ejemplo de ejecuci\IeC {\'o}n}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {section}{\numberline {3}Ejercicio 3}{5}% 
+\contentsline {subsection}{\numberline {3.1}Explicaci\IeC {\'o}n}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {subsection}{\numberline {3.2}Ejemplo de ejecuci\IeC {\'o}n}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {section}{\numberline {4}Ejercicio 4}{6}% 
+\contentsline {subsection}{\numberline {4.1}Explicaci\IeC {\'o}n}{6}% 
+\contentsline {paragraph}{}{6}% 
+\contentsline {paragraph}{}{6}% 
+\contentsline {paragraph}{}{6}% 
+\contentsline {subsection}{\numberline {4.2}Ejemplo de ejecuci\IeC {\'o}n}{6}% 
+\contentsline {section}{\numberline {5}Ejercicio 5}{7}% 
+\contentsline {subsection}{\numberline {5.1}Explicaci\IeC {\'o}n}{7}% 
+\contentsline {paragraph}{}{7}% 
+\contentsline {subsection}{\numberline {5.2}Ejemplo de ejecuci\IeC {\'o}n}{7}% 
+\contentsline {paragraph}{}{7}% 
+\contentsline {section}{\numberline {6}Ejercicio 6}{8}% 
+\contentsline {subsection}{\numberline {6.1}Explicaci\IeC {\'o}n}{8}% 
+\contentsline {paragraph}{}{8}% 
+\contentsline {paragraph}{}{8}% 
+\contentsline {subsection}{\numberline {6.2}Ejemplos de ejecuci\IeC {\'o}n}{8}% 
