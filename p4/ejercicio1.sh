@@ -15,7 +15,8 @@ egrep --colour  "^[0-9]+hr " $1
 separar "2) Lineas con los paises"
 egrep --colour  "\-.+\-" $1
 separar "3) Solo los paises"
-egrep --colour -o  "\-.+\-" $1
+# egrep --colour -o  "\-.+\-" $1
+cat $1 | sed -nr "s/\([0-9/]+\) \-(.+)\-/\1/p"
 separar "4) Contar peliculas de 2016 y 2017"
 echo "$(egrep --colour -c  '[0-9]+/[0-9]+/2016' $1) peliculas de 2016 y $(egrep -c  '[0-9]+/[0-9]+/2017' $1) peliculas de 2017"
 separar "5) Archivo sin lineas en blanco"
