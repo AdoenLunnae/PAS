@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Listado de archivos ocultos del directorio $HOME"
 echo "==========================================="
 ls -a $HOME | grep -E "^\..*$"

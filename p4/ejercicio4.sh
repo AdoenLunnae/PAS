@@ -1,3 +1,14 @@
+#!/bin/bash
+if [ "$#" -ne 1 ];then
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
+
+if [ ! -f $1 ]; then
+	echo "$1 no es un fichero válido"
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
 
 while read -r line;do 
 	if  ret=$(ping -c 1 -W "$2" $line); then

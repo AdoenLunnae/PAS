@@ -1,3 +1,14 @@
+#!/bin/bash
+if [ "$#" -ne 1 ];then
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
+
+if [ ! -f $1 ]; then
+	echo "$1 no es un fichero válido"
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
 cat $1 | grep -v -E "^[=]*$" | sed -r 
 '
 	/^ .+$/d;

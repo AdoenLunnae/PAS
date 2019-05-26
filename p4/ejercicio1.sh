@@ -10,6 +10,17 @@ function separar
 	return
 }
 
+if [ "$#" -ne 1 ];then
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
+
+if [ ! -f $1 ]; then
+	echo "$1 no es un fichero válido"
+	echo "Uso: $0 <fichero>"
+	exit 1
+fi
+
 separar "1) Lineas con las duraciones"
 egrep --colour  "^[0-9]+hr " $1
 separar "2) Lineas con los paises"
